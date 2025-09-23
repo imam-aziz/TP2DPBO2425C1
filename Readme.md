@@ -90,30 +90,31 @@
 **Berikut adalah Dokumentasi berupa Screenshot saat program dijalankan di Terminal dan Web(Php)**
 
 ### C++
-![CPP-SHOW](cpp/Dokumentasi/CPP-SHOW.png)  
-![CPP-ADD](cpp/Dokumentasi/CPP-ADD.png)  
-![CPP-ERROR](cpp/Dokumentasi/CPP-ERROR.png)  
-![CPP-EXIT](cpp/Dokumentasi/CPP-EXIT.png)  
+![CPP_SHOW](cpp/Dokumentasi/CPP_SHOW.png)  
+![CPP_ADD](cpp/Dokumentasi/CPP_ADD.png)  
+![CPP_ERROR](cpp/Dokumentasi/CPP_ERROR.png)  
+![CPP_EXIT](cpp/Dokumentasi/CPP_EXIT.png)  
 
 ---
 
 ### Java
-![JAVA-SHOW](java/Dokumentasi/JAVA-SHOW.png)  
-![JAVA-ADD](java/Dokumentasi/JAVA-ADD.png)  
-![JAVA-ERROR](java/Dokumentasi/JAVA-ERROR.png)  
-![JAVA-EXIT](java/Dokumentasi/JAVA-EXIT.png)  
+![JAVA_SHOW](java/Dokumentasi/JAVA_SHOW.png)  
+![JAVA_ADD](java/Dokumentasi/JAVA_ADD.png)  
+![JAVA_ERROR](java/Dokumentasi/JAVA_ERROR.png)  
+![JAVA_EXIT](java/Dokumentasi/JAVA_EXIT.png)  
 
 ---
 
 ### Python
-![PYTHON-SHOW](python/Dokumentasi/PYTHON-SHOW.png)  
-![PYTHON-ADD](python/Dokumentasi/PYTHON-ADD.png)  
-![PYTHON-ERROR](python/Dokumentasi/PYTHON-ERROR.png)  
-![PYTHON-EXIT](python/Dokumentasi/PYTHON-EXIT.png)  
+![PYTHON_SHOW](python/Dokumentasi/PYTHON_SHOW.png)  
+![PYTHON_ADD](python/Dokumentasi/PYTHON_ADD.png)  
+![PYTHON_ERROR](python/Dokumentasi/PYTHON_ERROR.png)  
+![PYTHON_EXIT](python/Dokumentasi/PYTHON_EXIT.png)  
 
 ---
 
 ### Php
-![PHP-SHOW](php/Dokumentasi/PHP-SHOW.png)  
-![PHP-ADD](php/Dokumentasi/PHP-ADD.png)  
-![PHP-EXIT](php/Dokumentasi/PHP-EXIT.png)  
+![PHP_SHOW](php/Dokumentasi/PHP_SHOW.png)  
+![PHP_ADD](php/Dokumentasi/PHP_ADD.png)  
+![PHP_EXIT](php/Dokumentasi/PHP_EXIT.png)  
+
