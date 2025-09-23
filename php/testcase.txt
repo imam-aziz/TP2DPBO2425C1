@@ -1,0 +1,10 @@
+Tambah Data di Form:
+PeciRgb
+Ar-Gb
+999999
+Portable
+Kain
+0.5
+12
+LED-Strip
+9
