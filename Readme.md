@@ -90,31 +90,32 @@
 **Berikut adalah Dokumentasi berupa Screenshot saat program dijalankan di Terminal dan Web(Php)**
 
 ### C++
-![CPP_SHOW](cpp/Dokumentasi/CPP_SHOW.png)  
 ![CPP_ADD](cpp/Dokumentasi/CPP_ADD.png)  
+![CPP_SHOW](cpp/Dokumentasi/CPP_SHOW.png)  
 ![CPP_ERROR](cpp/Dokumentasi/CPP_ERROR.png)  
 ![CPP_EXIT](cpp/Dokumentasi/CPP_EXIT.png)  
 
 ---
 
 ### Java
-![JAVA_SHOW](java/Dokumentasi/JAVA_SHOW.png)  
 ![JAVA_ADD](java/Dokumentasi/JAVA_ADD.png)  
+![JAVA_SHOW](java/Dokumentasi/JAVA_SHOW.png)  
 ![JAVA_ERROR](java/Dokumentasi/JAVA_ERROR.png)  
 ![JAVA_EXIT](java/Dokumentasi/JAVA_EXIT.png)  
 
 ---
 
 ### Python
-![PYTHON_SHOW](python/Dokumentasi/PYTHON_SHOW.png)  
 ![PYTHON_ADD](python/Dokumentasi/PYTHON_ADD.png)  
+![PYTHON_SHOW](python/Dokumentasi/PYTHON_SHOW.png)  
 ![PYTHON_ERROR](python/Dokumentasi/PYTHON_ERROR.png)  
 ![PYTHON_EXIT](python/Dokumentasi/PYTHON_EXIT.png)  
 
 ---
 
 ### Php
-![PHP_SHOW](php/Dokumentasi/PHP_SHOW.png)  
+![PHP_PAGE](php/Dokumentasi/PHP_SHOW.png)  
 ![PHP_ADD](php/Dokumentasi/PHP_ADD.png)  
-![PHP_EXIT](php/Dokumentasi/PHP_EXIT.png)  
+![PHP_ADDS](php/Dokumentasi/PHP_EXIT.png)  
+
 
