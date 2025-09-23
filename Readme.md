@@ -114,8 +114,9 @@
 ---
 
 ### Php
-![PHP_PAGE](php/Dokumentasi/PHP_SHOW.png)  
+![PHP_PAGE](php/Dokumentasi/PHP_PAGE.png)  
 ![PHP_ADD](php/Dokumentasi/PHP_ADD.png)  
-![PHP_ADDS](php/Dokumentasi/PHP_EXIT.png)  
+![PHP_ADDS](php/Dokumentasi/PHP_ADDS.png)  
+
 
 
