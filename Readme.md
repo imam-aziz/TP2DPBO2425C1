@@ -2,7 +2,7 @@
 
 
 ## 🤝 Janji
-"Saya Imam Azizun Hakim dengan NIM 2404420 mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah di spesifikasikan."
+"Saya Imam Azizun Hakim dengan NIM 2404420 mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah di spesifikasikan. Aamiin."
 
 
 ## 🔀 Penjelasan Desain dan Kode Flow
@@ -117,6 +117,7 @@
 ![PHP_PAGE](php/Dokumentasi/PHP_PAGE.png)  
 ![PHP_ADD](php/Dokumentasi/PHP_ADD.png)  
 ![PHP_ADDS](php/Dokumentasi/PHP_ADDS.png)  
+
 
 
 
